@@ -1,4 +1,5 @@
 title : Kisharrane Francis
+logo: images/Linkedin_Picture.jpeg
 description : Data Scientist
-#show_downloads :true 
+show_downloads: true 
 theme: jekyll-theme-cayman
